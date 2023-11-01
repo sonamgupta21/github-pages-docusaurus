@@ -9,7 +9,7 @@ const projectName = "github-pages-docusaurus";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "My Site",
+  title: "SigScalr-Docs",
   tagline: "Dinosaurs are cool",
   url: `https://sonamgupta21.github.io`,
   baseUrl: `/github-pages-docusaurus/`,
