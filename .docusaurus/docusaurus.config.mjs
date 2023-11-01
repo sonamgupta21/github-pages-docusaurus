@@ -4,7 +4,7 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Site",
+  "title": "SigScalr-Docs",
   "tagline": "Dinosaurs are cool",
   "url": "https://sonamgupta21.github.io",
   "baseUrl": "/github-pages-docusaurus/",
