@@ -35,7 +35,7 @@ export default {
   ],
   "themeConfig": {
     "navbar": {
-      "title": "My Site",
+      "title": "SigScalr Docs",
       "logo": {
         "alt": "My Site Logo",
         "src": "img/logo.svg"
@@ -43,9 +43,9 @@ export default {
       "items": [
         {
           "type": "doc",
-          "docId": "intro",
+          "docId": "installation",
           "position": "left",
-          "label": "Tutorial"
+          "label": "Docs"
         },
         {
           "href": "https://github.com/sonamgupta21/github-pages-docusaurus",

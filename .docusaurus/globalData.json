@@ -8,11 +8,36 @@
           "label": "Next",
           "isLast": true,
           "path": "/github-pages-docusaurus/",
-          "mainDocId": "intro",
+          "mainDocId": "installation",
           "docs": [
             {
-              "id": "intro",
+              "id": "data-management",
+              "path": "/github-pages-docusaurus/data-management",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "faq",
+              "path": "/github-pages-docusaurus/faq",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ingestion",
+              "path": "/github-pages-docusaurus/ingestion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "installation",
               "path": "/github-pages-docusaurus/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "integrations",
+              "path": "/github-pages-docusaurus/integrations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "query",
+              "path": "/github-pages-docusaurus/query",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -21,7 +46,7 @@
             "tutorialSidebar": {
               "link": {
                 "path": "/github-pages-docusaurus/",
-                "label": "intro"
+                "label": "installation"
               }
             }
           }

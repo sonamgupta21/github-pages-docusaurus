@@ -5,15 +5,15 @@
   "description": "Let's discover Docusaurus in less than 5 minutes.",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
-  "slug": "/",
-  "permalink": "/github-pages-docusaurus/",
+  "slug": "/intro",
+  "permalink": "/github-pages-docusaurus/intro",
   "draft": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 1,
-  "frontMatter": {
-    "sidebar_position": 1,
-    "slug": "/"
-  },
-  "sidebar": "tutorialSidebar"
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "FAQ",
+    "permalink": "/github-pages-docusaurus/faq"
+  }
 }
