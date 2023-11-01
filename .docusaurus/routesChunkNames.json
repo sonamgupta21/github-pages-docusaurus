@@ -1,40 +1,83 @@
 {
-  "/sigscalr-docs/markdown-page-fb9": {
-    "__comp": "1f391b9e",
+  "/sigscalr-docs/__docusaurus/debug-06f": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "99c4ee56"
+      "plugin": "plugin---sigscalr-docs-docusaurus-debug-396-081"
+    }
+  },
+  "/sigscalr-docs/__docusaurus/debug/config-6bb": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---sigscalr-docs-docusaurus-debug-396-081"
+    }
+  },
+  "/sigscalr-docs/__docusaurus/debug/content-ff0": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---sigscalr-docs-docusaurus-debug-396-081"
     },
-    "content": "393be207"
+    "allContent": "allContent---sigscalr-docs-docusaurus-debug-content-246-41c"
+  },
+  "/sigscalr-docs/__docusaurus/debug/globalData-950": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---sigscalr-docs-docusaurus-debug-396-081"
+    }
+  },
+  "/sigscalr-docs/__docusaurus/debug/metadata-d63": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---sigscalr-docs-docusaurus-debug-396-081"
+    }
+  },
+  "/sigscalr-docs/__docusaurus/debug/registry-ca2": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---sigscalr-docs-docusaurus-debug-396-081"
+    }
+  },
+  "/sigscalr-docs/__docusaurus/debug/routes-850": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---sigscalr-docs-docusaurus-debug-396-081"
+    }
+  },
+  "/sigscalr-docs/markdown-page-fb9": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---sigscalr-docs-markdown-page-99-c-d0d"
+    },
+    "content": "content---sigscalr-docs-markdown-page-393-0a3"
   },
   "/sigscalr-docs/-57b": {
-    "__comp": "1be78505",
+    "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "b4caa8c6"
+      "plugin": "plugin---sigscalr-docs-b-4-c-d90"
     },
-    "versionMetadata": "935f2afb"
+    "versionMetadata": "versionMetadata---sigscalr-docs-935-704"
   },
   "/sigscalr-docs/-7e0": {
-    "__comp": "17896441",
-    "content": "3b8c55ea"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sigscalr-docs-3-b-8-cbd"
   },
   "/sigscalr-docs/data-management-5da": {
-    "__comp": "17896441",
-    "content": "2450daf5"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sigscalr-docs-data-management-245-f5a"
   },
   "/sigscalr-docs/faq-1ad": {
-    "__comp": "17896441",
-    "content": "0480b142"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sigscalr-docs-faq-048-2dc"
   },
   "/sigscalr-docs/ingestion-e84": {
-    "__comp": "17896441",
-    "content": "27403e02"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sigscalr-docs-ingestion-274-70e"
   },
   "/sigscalr-docs/integrations-2c8": {
-    "__comp": "17896441",
-    "content": "fece9508"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sigscalr-docs-integrationsfec-3f5"
   },
   "/sigscalr-docs/query-221": {
-    "__comp": "17896441",
-    "content": "8418c612"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sigscalr-docs-query-841-361"
   }
 }

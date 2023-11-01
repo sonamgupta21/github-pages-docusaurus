@@ -3,6 +3,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/sigscalr-docs/__docusaurus/debug',
+    component: ComponentCreator('/sigscalr-docs/__docusaurus/debug', '06f'),
+    exact: true
+  },
+  {
+    path: '/sigscalr-docs/__docusaurus/debug/config',
+    component: ComponentCreator('/sigscalr-docs/__docusaurus/debug/config', '6bb'),
+    exact: true
+  },
+  {
+    path: '/sigscalr-docs/__docusaurus/debug/content',
+    component: ComponentCreator('/sigscalr-docs/__docusaurus/debug/content', 'ff0'),
+    exact: true
+  },
+  {
+    path: '/sigscalr-docs/__docusaurus/debug/globalData',
+    component: ComponentCreator('/sigscalr-docs/__docusaurus/debug/globalData', '950'),
+    exact: true
+  },
+  {
+    path: '/sigscalr-docs/__docusaurus/debug/metadata',
+    component: ComponentCreator('/sigscalr-docs/__docusaurus/debug/metadata', 'd63'),
+    exact: true
+  },
+  {
+    path: '/sigscalr-docs/__docusaurus/debug/registry',
+    component: ComponentCreator('/sigscalr-docs/__docusaurus/debug/registry', 'ca2'),
+    exact: true
+  },
+  {
+    path: '/sigscalr-docs/__docusaurus/debug/routes',
+    component: ComponentCreator('/sigscalr-docs/__docusaurus/debug/routes', '850'),
+    exact: true
+  },
+  {
     path: '/sigscalr-docs/markdown-page',
     component: ComponentCreator('/sigscalr-docs/markdown-page', 'fb9'),
     exact: true
