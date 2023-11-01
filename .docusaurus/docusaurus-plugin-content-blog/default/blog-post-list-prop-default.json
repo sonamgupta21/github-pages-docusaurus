@@ -1,0 +1,21 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "Welcome",
+      "permalink": "/github-pages-docusaurus/blog/welcome"
+    },
+    {
+      "title": "MDX Blog Post",
+      "permalink": "/github-pages-docusaurus/blog/mdx-blog-post"
+    },
+    {
+      "title": "Long Blog Post",
+      "permalink": "/github-pages-docusaurus/blog/long-blog-post"
+    },
+    {
+      "title": "First Blog Post",
+      "permalink": "/github-pages-docusaurus/blog/first-blog-post"
+    }
+  ]
+}
