@@ -7,7 +7,7 @@ export default {
   "title": "SigScalr-Docs",
   "tagline": "Dinosaurs are cool",
   "url": "https://sonamgupta21.github.io",
-  "baseUrl": "/",
+  "baseUrl": "/github-pages-docusaurus/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "throw",
   "favicon": "img/favicon.ico",

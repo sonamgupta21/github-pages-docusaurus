@@ -1,18 +1,18 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/",
+      "path": "/github-pages-docusaurus/",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/",
+          "path": "/github-pages-docusaurus/",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "intro",
-              "path": "/",
+              "path": "/github-pages-docusaurus/",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -20,7 +20,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/",
+                "path": "/github-pages-docusaurus/",
                 "label": "intro"
               }
             }

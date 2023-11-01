@@ -12,7 +12,7 @@ const config = {
   title: "SigScalr-Docs",
   tagline: "Dinosaurs are cool",
   url: `https://sonamgupta21.github.io`,
-  baseUrl: '/',
+  baseUrl: '/github-pages-docusaurus/',
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "throw",
   favicon: "img/favicon.ico",
@@ -52,7 +52,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "My Site",
+        title: "SigScalr Docs",
         logo: {
           alt: "My Site Logo",
           src: "img/logo.svg",

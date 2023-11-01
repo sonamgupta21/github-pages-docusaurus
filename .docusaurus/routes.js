@@ -3,17 +3,17 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '4e7'),
+    path: '/github-pages-docusaurus/markdown-page',
+    component: ComponentCreator('/github-pages-docusaurus/markdown-page', 'fe7'),
     exact: true
   },
   {
-    path: '/',
-    component: ComponentCreator('/', 'c65'),
+    path: '/github-pages-docusaurus/',
+    component: ComponentCreator('/github-pages-docusaurus/', '332'),
     routes: [
       {
-        path: '/',
-        component: ComponentCreator('/', '96c'),
+        path: '/github-pages-docusaurus/',
+        component: ComponentCreator('/github-pages-docusaurus/', 'c1b'),
         exact: true,
         sidebar: "tutorialSidebar"
       }
