@@ -55,7 +55,7 @@ const config = {
         title: "SigScalr Docs",
         logo: {
           alt: "My Site Logo",
-          src: "img/logo.svg",
+          src: "img/sigscalr-logo.svg",
         },
         items: [
           {
