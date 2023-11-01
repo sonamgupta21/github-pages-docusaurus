@@ -7,7 +7,7 @@ export default {
   "title": "SigScalr-Docs",
   "tagline": "Dinosaurs are cool",
   "url": "https://sonamgupta21.github.io",
-  "baseUrl": "/github-pages-docusaurus/",
+  "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "throw",
   "favicon": "img/favicon.ico",
@@ -27,15 +27,8 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/Users/sonamgupta/git-local/github-pages-docusaurus/sidebars.js",
-          "editUrl": "https://github.com/sonamgupta21/github-pages-docusaurus/tree/main/"
-        },
-        "blog": {
-          "showReadingTime": true,
-          "editUrl": "https://github.com/sonamgupta21/github-pages-docusaurus/tree/main/"
-        },
-        "theme": {
-          "customCss": "/Users/sonamgupta/git-local/github-pages-docusaurus/src/css/custom.css"
+          "routeBasePath": "/",
+          "sidebarPath": "/Users/sonamgupta/git-local/github-pages-docusaurus/sidebars.js"
         }
       }
     ]
@@ -55,62 +48,12 @@ export default {
           "label": "Tutorial"
         },
         {
-          "to": "/blog",
-          "label": "Blog",
-          "position": "left"
-        },
-        {
           "href": "https://github.com/sonamgupta21/github-pages-docusaurus",
           "label": "GitHub",
           "position": "right"
         }
       ],
       "hideOnScroll": false
-    },
-    "footer": {
-      "style": "dark",
-      "links": [
-        {
-          "title": "Docs",
-          "items": [
-            {
-              "label": "Tutorial",
-              "to": "/docs/intro"
-            }
-          ]
-        },
-        {
-          "title": "Community",
-          "items": [
-            {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
-            },
-            {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
-            },
-            {
-              "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
-            }
-          ]
-        },
-        {
-          "title": "More",
-          "items": [
-            {
-              "label": "Blog",
-              "to": "/blog"
-            },
-            {
-              "label": "GitHub",
-              "href": "https://github.com/sonamgupta21/github-pages-docusaurus"
-            }
-          ]
-        }
-      ],
-      "copyright": "Copyright © 2023 My Project, Inc. Built with Docusaurus."
     },
     "prism": {
       "theme": {

@@ -5,19 +5,15 @@
   "description": "Let's discover Docusaurus in less than 5 minutes.",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
-  "slug": "/intro",
-  "permalink": "/github-pages-docusaurus/docs/intro",
+  "slug": "/",
+  "permalink": "/",
   "draft": false,
-  "editUrl": "https://github.com/sonamgupta21/github-pages-docusaurus/tree/main/docs/intro.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
-    "sidebar_position": 1
+    "sidebar_position": 1,
+    "slug": "/"
   },
-  "sidebar": "tutorialSidebar",
-  "next": {
-    "title": "Tutorial - Basics",
-    "permalink": "/github-pages-docusaurus/docs/category/tutorial---basics"
-  }
+  "sidebar": "tutorialSidebar"
 }
