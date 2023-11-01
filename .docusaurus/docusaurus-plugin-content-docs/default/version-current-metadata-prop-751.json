@@ -11,37 +11,37 @@
       {
         "type": "link",
         "label": "Installation",
-        "href": "/github-pages-docusaurus/",
+        "href": "/sigscalr-docs/",
         "docId": "installation"
       },
       {
         "type": "link",
         "label": "Ingestion",
-        "href": "/github-pages-docusaurus/ingestion",
+        "href": "/sigscalr-docs/ingestion",
         "docId": "ingestion"
       },
       {
         "type": "link",
         "label": "Query",
-        "href": "/github-pages-docusaurus/query",
+        "href": "/sigscalr-docs/query",
         "docId": "query"
       },
       {
         "type": "link",
         "label": "Integrations",
-        "href": "/github-pages-docusaurus/integrations",
+        "href": "/sigscalr-docs/integrations",
         "docId": "integrations"
       },
       {
         "type": "link",
         "label": "Data Management",
-        "href": "/github-pages-docusaurus/data-management",
+        "href": "/sigscalr-docs/data-management",
         "docId": "data-management"
       },
       {
         "type": "link",
         "label": "FAQ",
-        "href": "/github-pages-docusaurus/faq",
+        "href": "/sigscalr-docs/faq",
         "docId": "faq"
       }
     ]

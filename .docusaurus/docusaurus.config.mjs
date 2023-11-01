@@ -7,13 +7,13 @@ export default {
   "title": "SigScalr-Docs",
   "tagline": "Dinosaurs are cool",
   "url": "https://sonamgupta21.github.io",
-  "baseUrl": "/github-pages-docusaurus/",
+  "baseUrl": "/sigscalr-docs/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "throw",
   "favicon": "img/favicon.ico",
   "trailingSlash": false,
   "organizationName": "sonamgupta21",
-  "projectName": "github-pages-docusaurus",
+  "projectName": "sigscalr-docs",
   "i18n": {
     "defaultLocale": "en",
     "locales": [
@@ -48,7 +48,7 @@ export default {
           "label": "Docs"
         },
         {
-          "href": "https://github.com/sonamgupta21/github-pages-docusaurus",
+          "href": "https://github.com/sonamgupta21/sigscalr-docs",
           "label": "GitHub",
           "position": "right"
         }

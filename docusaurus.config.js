@@ -5,14 +5,14 @@ const lightCodeTheme = require("prism-react-renderer/themes/github");
 const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 const organizationName = "sonamgupta21";
-const projectName = "github-pages-docusaurus";
+const projectName = "sigscalr-docs";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "SigScalr-Docs",
   tagline: "Dinosaurs are cool",
   url: `https://sonamgupta21.github.io`,
-  baseUrl: '/github-pages-docusaurus/',
+  baseUrl: '/sigscalr-docs/',
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "throw",
   favicon: "img/favicon.ico",
@@ -42,7 +42,7 @@ const config = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          // editUrl: `https://github.com/sonamgupta21/github-pages-docusaurus/tree/main/`,
+          // editUrl: `https://github.com/sonamgupta21/sigscalr-docs/tree/main/`,
         }
       }),
     ],

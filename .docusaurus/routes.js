@@ -3,82 +3,47 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/github-pages-docusaurus/__docusaurus/debug',
-    component: ComponentCreator('/github-pages-docusaurus/__docusaurus/debug', '0db'),
+    path: '/sigscalr-docs/markdown-page',
+    component: ComponentCreator('/sigscalr-docs/markdown-page', 'fb9'),
     exact: true
   },
   {
-    path: '/github-pages-docusaurus/__docusaurus/debug/config',
-    component: ComponentCreator('/github-pages-docusaurus/__docusaurus/debug/config', '9ce'),
-    exact: true
-  },
-  {
-    path: '/github-pages-docusaurus/__docusaurus/debug/content',
-    component: ComponentCreator('/github-pages-docusaurus/__docusaurus/debug/content', 'ff7'),
-    exact: true
-  },
-  {
-    path: '/github-pages-docusaurus/__docusaurus/debug/globalData',
-    component: ComponentCreator('/github-pages-docusaurus/__docusaurus/debug/globalData', '379'),
-    exact: true
-  },
-  {
-    path: '/github-pages-docusaurus/__docusaurus/debug/metadata',
-    component: ComponentCreator('/github-pages-docusaurus/__docusaurus/debug/metadata', '43d'),
-    exact: true
-  },
-  {
-    path: '/github-pages-docusaurus/__docusaurus/debug/registry',
-    component: ComponentCreator('/github-pages-docusaurus/__docusaurus/debug/registry', '0bf'),
-    exact: true
-  },
-  {
-    path: '/github-pages-docusaurus/__docusaurus/debug/routes',
-    component: ComponentCreator('/github-pages-docusaurus/__docusaurus/debug/routes', '2ce'),
-    exact: true
-  },
-  {
-    path: '/github-pages-docusaurus/markdown-page',
-    component: ComponentCreator('/github-pages-docusaurus/markdown-page', 'fe7'),
-    exact: true
-  },
-  {
-    path: '/github-pages-docusaurus/',
-    component: ComponentCreator('/github-pages-docusaurus/', 'e64'),
+    path: '/sigscalr-docs/',
+    component: ComponentCreator('/sigscalr-docs/', '57b'),
     routes: [
       {
-        path: '/github-pages-docusaurus/',
-        component: ComponentCreator('/github-pages-docusaurus/', '3c5'),
+        path: '/sigscalr-docs/',
+        component: ComponentCreator('/sigscalr-docs/', '7e0'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/github-pages-docusaurus/data-management',
-        component: ComponentCreator('/github-pages-docusaurus/data-management', 'f90'),
+        path: '/sigscalr-docs/data-management',
+        component: ComponentCreator('/sigscalr-docs/data-management', '5da'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/github-pages-docusaurus/faq',
-        component: ComponentCreator('/github-pages-docusaurus/faq', 'd05'),
+        path: '/sigscalr-docs/faq',
+        component: ComponentCreator('/sigscalr-docs/faq', '1ad'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/github-pages-docusaurus/ingestion',
-        component: ComponentCreator('/github-pages-docusaurus/ingestion', 'a1f'),
+        path: '/sigscalr-docs/ingestion',
+        component: ComponentCreator('/sigscalr-docs/ingestion', 'e84'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/github-pages-docusaurus/integrations',
-        component: ComponentCreator('/github-pages-docusaurus/integrations', '433'),
+        path: '/sigscalr-docs/integrations',
+        component: ComponentCreator('/sigscalr-docs/integrations', '2c8'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/github-pages-docusaurus/query',
-        component: ComponentCreator('/github-pages-docusaurus/query', '341'),
+        path: '/sigscalr-docs/query',
+        component: ComponentCreator('/sigscalr-docs/query', '221'),
         exact: true,
         sidebar: "tutorialSidebar"
       }

@@ -1,43 +1,43 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/github-pages-docusaurus/",
+      "path": "/sigscalr-docs/",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/github-pages-docusaurus/",
+          "path": "/sigscalr-docs/",
           "mainDocId": "installation",
           "docs": [
             {
               "id": "data-management",
-              "path": "/github-pages-docusaurus/data-management",
+              "path": "/sigscalr-docs/data-management",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "faq",
-              "path": "/github-pages-docusaurus/faq",
+              "path": "/sigscalr-docs/faq",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "ingestion",
-              "path": "/github-pages-docusaurus/ingestion",
+              "path": "/sigscalr-docs/ingestion",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "installation",
-              "path": "/github-pages-docusaurus/",
+              "path": "/sigscalr-docs/",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "integrations",
-              "path": "/github-pages-docusaurus/integrations",
+              "path": "/sigscalr-docs/integrations",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "query",
-              "path": "/github-pages-docusaurus/query",
+              "path": "/sigscalr-docs/query",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -45,7 +45,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/github-pages-docusaurus/",
+                "path": "/sigscalr-docs/",
                 "label": "installation"
               }
             }
